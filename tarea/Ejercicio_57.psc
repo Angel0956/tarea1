@@ -17,7 +17,7 @@ Algoritmo Ejericicio_57
     Escribir "";
     Para f <- 0 Hasta 9 Con Paso 1 Hacer
         Si (num == arreglo[f]) Entonces
-            Escribir "EL VALOR ESTÁ EN LA POSCICIÓN : ", f+1;
+            Escribir "EL VALOR ESTÃ EN LA POSCICIÃ“N : ", f+1;
             int <- 1;
         FinSi      
     FinPara            
