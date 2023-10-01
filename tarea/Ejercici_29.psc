@@ -1,4 +1,4 @@
-Algoritmo Ejercici_29
+Algoritmo Ejercicio_29
 	// Digite las variables de entrada 
 	Definir descuento , articulos , precio, total  Como Real
 	// Luego mostra por pantalla la oferta que tiene su almacen 
